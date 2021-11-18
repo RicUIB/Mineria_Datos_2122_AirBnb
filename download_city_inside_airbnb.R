@@ -1,4 +1,4 @@
-
+# zones
 zone_Barcelona="http://data.insideairbnb.com/spain/catalonia/barcelona/2021-09-10/data/"
 zone_Valencia="http://data.insideairbnb.com/spain/vc/valencia/2021-09-21/data/"
 zone_Mallorca="http://data.insideairbnb.com/spain/islas-baleares/mallorca/2021-09-14/data/"
