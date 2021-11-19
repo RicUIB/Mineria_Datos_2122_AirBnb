@@ -1,5 +1,5 @@
 ---
-title: "AirBnb Data. Data Mining project definition 21_22, GIN2. Provisional English version"
+title: "AirBnb Data. Data Mining project definition 21_22, GIN2.  English version"
 author: 
 date: '2021-2022'
 output:
